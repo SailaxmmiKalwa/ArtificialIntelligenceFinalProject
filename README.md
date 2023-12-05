@@ -26,6 +26,10 @@ How the chatBot works :-
 After launching chatBot with greeting message , it will ask user to confirm the given symptom with yes or no if they are suffering with it . It continues until the chatBot finds a disease that matches the user symptoms confirmed. After finding the disease , the chatBot displays the disease list along with the current symptoms of the user and actual symptoms of the disease just to warn the user about the disease symptoms and its effect on them.
 
 
+Youtube presentation link : - 
+https://youtu.be/efyza7ANedo?feature=shared
+
+
 
 
 
